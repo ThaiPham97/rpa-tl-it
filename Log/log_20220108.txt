@@ -1,0 +1,10 @@
+﻿01/08/2022 07:02:21 wfc ok
+01/08/2022 07:02:33 cvn-filesv ok
+01/08/2022 07:04:00 HoanKiemAp2 ok
+01/08/2022 07:04:58 HoanKiemAp1 ok
+01/08/2022 07:05:00 Send mail ok
+01/08/2022 07:31:33 wfc ok
+01/08/2022 07:31:44 cvn-filesv ok
+01/08/2022 07:32:25 HoanKiemAp2 ok
+01/08/2022 07:33:22 HoanKiemAp1 ok
+01/08/2022 07:33:25 Send mail ok

@@ -1,0 +1,15 @@
+﻿12/24/2021 07:02:35 wfc ok
+12/24/2021 07:02:48 cvn-filesv ok
+12/24/2021 07:03:38 HoanKiemAp2 ok
+12/24/2021 07:04:36 HoanKiemAp1 ok
+12/24/2021 07:04:38 Send mail ok
+12/24/2021 07:31:25 wfc ok
+12/24/2021 07:31:35 cvn-filesv ok
+12/24/2021 07:32:17 HoanKiemAp2 ok
+12/24/2021 07:33:15 HoanKiemAp1 ok
+12/24/2021 07:33:19 Send mail ok
+12/24/2021 07:51:55 wfc ok
+12/24/2021 07:52:06 cvn-filesv ok
+12/24/2021 07:52:48 HoanKiemAp2 ok
+12/24/2021 07:53:45 HoanKiemAp1 ok
+12/24/2021 07:53:48 Send mail ok
